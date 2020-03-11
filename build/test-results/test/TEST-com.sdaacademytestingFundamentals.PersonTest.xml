@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sdaacademytestingFundamentals.PersonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-06T05:24:40" hostname="LAPTOP-FI2HC335" time="0.008">
+  <properties/>
+  <testcase name="isTeenagerTest" classname="com.sdaacademytestingFundamentals.PersonTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
